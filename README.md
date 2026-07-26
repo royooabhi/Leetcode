@@ -18,8 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/royooabhi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1929-concatenation-of-array](https://github.com/royooabhi/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/royooabhi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/royooabhi/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
