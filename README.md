@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/royooabhi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1929-concatenation-of-array](https://github.com/royooabhi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/royooabhi/Leetcode/tree/master/2029-stone-game-ix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/royooabhi/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/royooabhi/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/royooabhi/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Backtracking
 |  |
 | ------- |
